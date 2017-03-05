@@ -1,0 +1,6 @@
+target
+*dbfile*
+*_*.txt
+*.iml
+.idea
+*.jar

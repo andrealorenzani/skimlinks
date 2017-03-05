@@ -1,0 +1,1 @@
+{"code":200,"status":"Ok","copyright":"© 2017 MARVEL","attributionText":"Data provided by Marvel. © 2017 MARVEL","attributionHTML":"<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>","etag":"8ea3727bb383df8c2ee7be6ce5a71a554cdf0a45","data":{"offset":5800,"limit":100,"total":0,"count":0,"results":[]}}
